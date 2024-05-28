@@ -1,1 +1,1 @@
-# js-jogo.pong
+# js-escolhenome
